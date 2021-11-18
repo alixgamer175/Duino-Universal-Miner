@@ -2,8 +2,6 @@
   
 For Android Use Pydroid 3  
   
-For ESP Use Instructions Inside Micropython Folder  
-  
 For Windows , Mac And Linux Use Python3  
   
 # Works On `Only Few Commands`  

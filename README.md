@@ -6,8 +6,8 @@ For Windows Use Python
   
 For Linux Use Python
   
-# Commands  
+# Works On `Single Command`  
   
-```
-W8
-```
+Just Change Username In File And Then Start Minning  
+  
+`wget https://raw.githubusercontent.com/alixgamer175/Duino-Universal-Miner/main/miner.py && bash miner.py`

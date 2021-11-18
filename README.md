@@ -2,7 +2,7 @@
   
 For Android Use Pydroid 3  
   
-Fir ESP Use Instructions Inside Micropython Folder  
+For ESP Use Instructions Inside Micropython Folder  
   
 For Windows , Mac And Linux Use Python3  
   

@@ -78,6 +78,29 @@ while True:
                         + ",Universal_Miner"
                         + "1.0",
                         encoding="utf8"))
+
+                    feedback = soc.recv(1024).decode().rstrip("\n")
+
+                    if feedback == "GOOD":
+                        print("Accepted share",
+                              result,
+                              "Hashrate",
+                              int(hashrate/1000),
+                              "kH/s",
+                              "Difficulty",
+                              difficulty)
+                        break
+
+                    elif feedback == "BAD":
+                        print("Rejected share",
+                              result,
+                              "Hashrate",
+                              int(hashrate/1000),
+                              "kH/s",
+                              "Difficulty",
+                              difficulty)
+                        break
+
     except Exception as e:
         print("Error occured: " + str(e) + ", restarting in 5s.")
         retrieve_server_ip()

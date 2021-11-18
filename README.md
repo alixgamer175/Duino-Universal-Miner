@@ -1,10 +1,8 @@
 # This Miner Work On Every Python Supported Device  
   
-For Android Use Termux  
+For Android Use Pydroid  
   
-For Windows Use Python  
-  
-For Linux Use Python
+For Windows , Mac And Linux Use Python  
   
 # Works On `Only Few Commands`  
   

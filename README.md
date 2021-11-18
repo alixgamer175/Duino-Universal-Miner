@@ -10,7 +10,7 @@ Just Change Username In File And Then Start Minning
   
 ```
 wget https://raw.githubusercontent.com/alixgamer175/Duino-Universal-Miner/main/miner.py  
-Python3 miner.py
+python3 miner.py
 ```
 # Remember To Change Username Using Nano Or Vim Or Your Text Editor..
 # `ESP Is Under Deployment`

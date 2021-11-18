@@ -1,10 +1,10 @@
 # This Miner Work On Every Python Supported Device  
   
-For Android Use Pydroid  
+For Android Use Pydroid 3  
   
 Fir ESP Use Instructions Inside Micropython Folder  
   
-For Windows , Mac And Linux Use Python  
+For Windows , Mac And Linux Use Python3  
   
 # Works On `Only Few Commands`  
   

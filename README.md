@@ -2,6 +2,8 @@
   
 For Android Use Pydroid  
   
+Fir ESP Use Instructions Inside Micropython Folder  
+  
 For Windows , Mac And Linux Use Python  
   
 # Works On `Only Few Commands`  
